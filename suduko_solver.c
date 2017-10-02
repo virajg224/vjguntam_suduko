@@ -92,7 +92,7 @@ int main() {
             if (i % 3 == 0 && i != 9) printf("-------|-------|-------\n");
         }
     }
-    else printf("\n There is no solution.");
+    else printf("\nThere is no solution.\n");
     return 0;
 }
 
